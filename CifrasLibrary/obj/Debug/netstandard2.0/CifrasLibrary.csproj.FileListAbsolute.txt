@@ -1,0 +1,9 @@
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\bin\Debug\netstandard2.0\CifrasLibrary.deps.json
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\bin\Debug\netstandard2.0\CifrasLibrary.dll
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\bin\Debug\netstandard2.0\CifrasLibrary.pdb
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.csprojAssemblyReference.cache
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.AssemblyInfoInputs.cache
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.AssemblyInfo.cs
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.dll
+D:\Documentos\projetos\CrifasSubstituicao\CifrasLibrary\obj\Debug\netstandard2.0\CifrasLibrary.pdb

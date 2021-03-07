@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CifrasSubstituicao/1.0.0": {
+        "dependencies": {
+          "CifrasLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CifrasSubstituicao.dll": {}
+        }
+      },
+      "CifrasLibrary/1.0.0": {
+        "runtime": {
+          "CifrasLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CifrasSubstituicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CifrasLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

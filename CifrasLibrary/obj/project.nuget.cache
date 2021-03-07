@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k/xkBMw/2i+c8v4/p+CWDpLP6MFGLsy+RHhQ7LpBXx7hM9UNarvdbUrJXuV85U0tn9Bm8oH+aQS0AP1MTcjSw==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\projetos\\CrifasSubstituicao\\CifrasLibrary\\CifrasLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BirseneK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BirseneK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
