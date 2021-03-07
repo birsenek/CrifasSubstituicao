@@ -1,0 +1,7 @@
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasSubstituicao.exe
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasSubstituicao.dll
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasSubstituicao.deps.json
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasSubstituicao.runtimeconfig.json
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasSubstituicao.pdb
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasLibrary.dll
+D:\Documentos\projetos\CrifasSubstituicao\executavel\CifrasLibrary.pdb
